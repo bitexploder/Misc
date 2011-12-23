@@ -1,1 +1,2 @@
 spinner.py - It spins ASCII text at a Unix TTY
+parse_skypechatsync.py - Parse a Skype chatsync .dat file. Merge all .dat's into one big file for extra fun parsing.
